@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Meltwater_freeze.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ff03b100</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ff03b100</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Temporary Places</name>
+		<open>1</open>
+		<GroundOverlay>
+			<name>plot map</name>
+			<Icon>
+				<href>https://cdn.jsdelivr.net/gh/Devansh070805/G@main/Screenshot_2025-08-29_at_4.19.11_AM.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>53.42485917287313</north>
+				<south>53.41753314796038</south>
+				<east>-113.3936603109275</east>
+				<west>-113.4184601581091</west>
+				<rotation>0.9357065633966686</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Block 1 - House 1 </name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4105019357097,53.42188647989556,0 -113.4107300719877,53.42198302833575,0 -113.4111016570497,53.42193682491267,0 -113.4110526554098,53.4208655699535,0 -113.410479170163,53.42087218001011,0 -113.4105019357097,53.42188647989556,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 2 </name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4115794570654,53.42189503309471,0 -113.4115398231971,53.42085807273635,0 -113.4110468051705,53.4208657436732,0 -113.4111000842748,53.4219297504272,0 -113.4115794570654,53.42189503309471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 3</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4115853839012,53.42189756231141,0 -113.4120588454064,53.42187961580764,0 -113.412025874559,53.42084980062088,0 -113.4115420104949,53.4208547258737,0 -113.4115853839012,53.42189756231141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 4</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4125435518155,53.42187540221395,0 -113.4124975145793,53.420836180371,0 -113.4120137161023,53.42084766547056,0 -113.4120647511406,53.42187902485327,0 -113.4125435518155,53.42187540221395,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 5</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4130516735719,53.42186159593731,0 -113.4130232123677,53.42084089336702,0 -113.412523973943,53.42084699235282,0 -113.412554362054,53.42187062301129,0 -113.4130516735719,53.42186159593731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 6</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4133228416922,53.42186790118508,0 -113.4135685649906,53.42183215234014,0 -113.4135346987371,53.42083035172957,0 -113.4130165024039,53.42083818456562,0 -113.4130538905534,53.4218687970154,0 -113.4133228416922,53.42186790118508,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 7</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4137767321881,53.42178128730803,0 -113.4139827206765,53.42169785672777,0 -113.4142742252164,53.42081444664399,0 -113.413540178376,53.42082671100822,0 -113.4135670661458,53.42183566784039,0 -113.4137767321881,53.42178128730803,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 8</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.414150518508,53.42167099801635,0 -113.4143655571478,53.4216568603597,0 -113.4152563692114,53.42080764321088,0 -113.4142778191729,53.42082657750322,0 -113.4139849613263,53.42170500433549,0 -113.414150518508,53.42167099801635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 9</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.414725547587,53.42170581258071,0 -113.416670232187,53.42078723900206,0 -113.4152488961771,53.42080780425459,0 -113.4143566809198,53.42165229715113,0 -113.414725547587,53.42170581258071,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 10</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4147097189597,53.42170881591013,0 -113.4149803386024,53.4218171534794,0 -113.416827179895,53.42149322981309,0 -113.4168072562721,53.42078741013715,0 -113.4166729571808,53.42079063012559,0 -113.4147097189597,53.42170881591013,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 11</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4151168635594,53.42200411081816,0 -113.4168473012638,53.42197804027585,0 -113.4168251212892,53.42150435176828,0 -113.4149803386024,53.4218171534794,0 -113.4151168635594,53.42200411081816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 12</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4151187807137,53.42216119132266,0 -113.4149676939188,53.42233624521768,0 -113.4168859454886,53.42282398090062,0 -113.4168476689673,53.42213141781698,0 -113.4151187807137,53.42216119132266,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 13</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4146924604678,53.42244823198466,0 -113.4157097364132,53.4233278627805,0 -113.4169037526486,53.42331089508355,0 -113.4168819409705,53.42281638853088,0 -113.4149465873442,53.42233835771845,0 -113.4146924604678,53.42244823198466,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 14</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4143307244194,53.42249127712287,0 -113.4144593044841,53.42334437598218,0 -113.4157007369066,53.42331996570474,0 -113.4147084767039,53.42244662899236,0 -113.4143307244194,53.42249127712287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 15</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4140256708305,53.42245645721359,0 -113.4137264342145,53.42235775391903,0 -113.4137607611484,53.42334121951831,0 -113.414456199279,53.42333890460699,0 -113.4143422500912,53.42249322768926,0 -113.4140256708305,53.42245645721359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 16</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4137223528754,53.42235572531943,0 -113.4134490856216,53.42231219110131,0 -113.4130894144592,53.42231555287646,0 -113.4131335747926,53.42335271189231,0 -113.4137648303125,53.42334353068065,0 -113.4137223528754,53.42235572531943,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 17</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4130873352881,53.42231484950744,0 -113.4124591897282,53.42232224429861,0 -113.4124913919485,53.42336378681703,0 -113.4131260739625,53.42335695244159,0 -113.4130873352881,53.42231484950744,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 18</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4124531744309,53.42232164724707,0 -113.4118245954116,53.4223380511625,0 -113.4118621277885,53.42336876703981,0 -113.4125079164751,53.42336384944463,0 -113.4124531744309,53.42232164724707,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 19</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4118286287817,53.42233803657451,0 -113.4111988681077,53.42238517220816,0 -113.4112288889352,53.42337105594915,0 -113.4118747925624,53.42336872123768,0 -113.4118286287817,53.42233803657451,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 20</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.411187661195,53.42239558846998,0 -113.4105953448468,53.42246144712907,0 -113.4106279094793,53.42339107999548,0 -113.4112384381124,53.42338117030017,0 -113.411187661195,53.42239558846998,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 21</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4102969459073,53.42248397047637,0 -113.4096995608795,53.42252885334834,0 -113.4097283993898,53.42339365437031,0 -113.4103342638921,53.42338377362255,0 -113.4102969459073,53.42248397047637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 22</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.409691255585,53.4225217500086,0 -113.4091038780573,53.42254289469148,0 -113.4091263433998,53.42340352427097,0 -113.4097326837716,53.42339620665734,0 -113.409691255585,53.4225217500086,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 23</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4090983547067,53.42254271754361,0 -113.408497260515,53.42255195716979,0 -113.4085258205202,53.42341528241727,0 -113.4091292384835,53.42340292621112,0 -113.4090983547067,53.42254271754361,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 24</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4084945212381,53.42255196582538,0 -113.4078930638309,53.42255648466973,0 -113.4079246100535,53.42341234231472,0 -113.4085203313246,53.42341275477549,0 -113.4084945212381,53.42255196582538,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 25</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4078931624252,53.42255884586483,0 -113.4072834715689,53.42256575423929,0 -113.4073293428674,53.42343232028937,0 -113.4079290168576,53.42341742271965,0 -113.4078931624252,53.42255884586483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 26</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.407290047565,53.42257535613963,0 -113.4066919902526,53.42257276896102,0 -113.4067122431726,53.42343687597338,0 -113.4073242173963,53.42342194077381,0 -113.407290047565,53.42257535613963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 27</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4066892317976,53.42257041587187,0 -113.4060877102974,53.42258201777157,0 -113.4061123293674,53.42343901828718,0 -113.4067164102155,53.42343176093192,0 -113.4066892317976,53.42257041587187,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 28</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4060837818329,53.42258676144416,0 -113.4054856836337,53.42259125993345,0 -113.4055163622488,53.42345390535853,0 -113.4061165261482,53.42343900331225,0 -113.4060837818329,53.42258676144416,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 29</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.405483585604,53.42259290380871,0 -113.4049721239422,53.42259237812019,0 -113.4050065550432,53.42348889272089,0 -113.4052832118661,53.42349045075584,0 -113.4052810346834,53.42344730850061,0 -113.4055154041123,53.42344900763572,0 -113.405483585604,53.42259290380871,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 30</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4050065550432,53.42348889272089,0 -113.4044912887525,53.42349581140204,0 -113.4044608443967,53.42259654516445,0 -113.4049722140967,53.42259472579742,0 -113.4039408715168,53.42315944404517,0 -113.4050065550432,53.42348889272089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 31</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4044631001403,53.42260059466226,0 -113.4039483649605,53.42260711274537,0 -113.4039852328298,53.42351007150667,0 -113.4044954778889,53.42349556248617,0 -113.4044631001403,53.42260059466226,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 32</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4039511171202,53.42260674464715,0 -113.4033849959734,53.42261810739488,0 -113.4034907260737,53.42357456648246,0 -113.4039821238629,53.42351185833687,0 -113.4039511171202,53.42260674464715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 33</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4033960839364,53.42261961787122,0 -113.402600820765,53.42268398676132,0 -113.4030635258718,53.42369253587206,0 -113.403499394133,53.42358250825794,0 -113.4033960839364,53.42261961787122,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 34</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.402603335203,53.42268017066404,0 -113.4018698510539,53.42281207092604,0 -113.4025725501207,53.4237462301064,0 -113.4029258924234,53.42373727499318,0 -113.4030662454916,53.42369321442899,0 -113.402603335203,53.42268017066404,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 35</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4018632304455,53.42281658230858,0 -113.4013271969335,53.42296460133098,0 -113.4019925244708,53.42384564744526,0 -113.402566788552,53.42374058560163,0 -113.4018632304455,53.42281658230858,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 36</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4013290739666,53.4229613801698,0 -113.400806418287,53.42312469460806,0 -113.4014981614937,53.42406289005865,0 -113.4019895428892,53.42384236979225,0 -113.4013290739666,53.4229613801698,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 37</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4002735042747,53.42328759275819,0 -113.4010577648261,53.42433429112747,0 -113.4012847157328,53.42416676622904,0 -113.40149854578,53.42405707693503,0 -113.4007971855174,53.42312021019734,0 -113.4002735042747,53.42328759275819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 38</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.4002725713924,53.42328841399513,0 -113.3997468557074,53.42344934769687,0 -113.4004514251803,53.424399423256,0 -113.4010122796907,53.42438823228479,0 -113.4010664524285,53.42433918515786,0 -113.4002725713924,53.42328841399513,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 39</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.399297340192,53.4235913657155,0 -113.3999170910717,53.42441031877611,0 -113.4004499569963,53.42439352817496,0 -113.3997500701753,53.42345252408988,0 -113.399297340192,53.4235913657155,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 40</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3992989907724,53.42358691455058,0 -113.3988529642445,53.42373132475046,0 -113.3995058703867,53.42459679424589,0 -113.3998564776178,53.42441321503576,0 -113.399919430507,53.4244126682597,0 -113.3992989907724,53.42358691455058,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 41</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3988523270366,53.4237289761889,0 -113.398389473764,53.42385398024491,0 -113.3990724256483,53.42475581393587,0 -113.3992243987352,53.4247583344991,0 -113.3995053754441,53.42460192507878,0 -113.3988523270366,53.4237289761889,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 42</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.398873053658,53.42491037536215,0 -113.3981200422815,53.42391242748794,0 -113.3977027879408,53.42398396876636,0 -113.3981919114705,53.4249178380902,0 -113.398873053658,53.42491037536215,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 43</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3977068863052,53.42398342016401,0 -113.3973103692187,53.42403599235382,0 -113.3973515853956,53.42492205637963,0 -113.3981795950387,53.42491298941278,0 -113.3977068863052,53.42398342016401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 44</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3973240227966,53.42403784949902,0 -113.3968989312117,53.42407905826708,0 -113.3965820974935,53.4249405806186,0 -113.3973468773789,53.42493221042798,0 -113.3973240227966,53.42403784949902,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 45</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3965067967689,53.42402768985031,0 -113.3957116161606,53.42495025596381,0 -113.3965735470278,53.42493748700709,0 -113.3968994334426,53.42407858443725,0 -113.3965067967689,53.42402768985031,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 46</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3962546201938,53.42390627935329,0 -113.3945850107694,53.42483665096779,0 -113.3945904002123,53.42495513509704,0 -113.395709992945,53.42494289507826,0 -113.39651680558,53.42403266547266,0 -113.3962546201938,53.42390627935329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 47</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3961186514851,53.42375142647933,0 -113.3945549362267,53.42412218980847,0 -113.3945650740703,53.42483420752031,0 -113.3962519984052,53.42391748822499,0 -113.3961186514851,53.42375142647933,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 48</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3961214342826,53.42374856531953,0 -113.396124309526,53.42357367910997,0 -113.3945433261954,53.42364262616069,0 -113.3945422577786,53.42411227108963,0 -113.3961214342826,53.42374856531953,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 49</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.396123093981,53.4235689478104,0 -113.3961311159373,53.42332561045399,0 -113.3945304115239,53.42335470604242,0 -113.3945349737386,53.42363829117737,0 -113.396123093981,53.4235689478104,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 50</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3945242068329,53.42334704131934,0 -113.3961373684181,53.42332554206621,0 -113.3961316222997,53.42307857627862,0 -113.3945258841945,53.42309987180203,0 -113.3945242068329,53.42334704131934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 51</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.394520026806,53.42310016510473,0 -113.3961308390593,53.42306932312557,0 -113.3961161529682,53.42282179825603,0 -113.3945136498777,53.42283503418294,0 -113.394520026806,53.42310016510473,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 52</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.396122176883,53.42281316877076,0 -113.396106351107,53.42256032457806,0 -113.3945008363173,53.42259035148956,0 -113.3945067248048,53.4228393926973,0 -113.396122176883,53.42281316877076,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 53</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3961058606157,53.4225561758094,0 -113.3960968424494,53.42230665240169,0 -113.3944877242996,53.42232424477301,0 -113.39449594572,53.42257732628046,0 -113.3961058606157,53.4225561758094,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 54</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3961121383223,53.42230702477168,0 -113.3960896592221,53.422058831263,0 -113.3944756624388,53.42207112609433,0 -113.3944864617323,53.42232189121345,0 -113.3961121383223,53.42230702477168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Block 1 - House 55</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-113.3944479140227,53.42206209639149,0 -113.3961019139946,53.42204734363847,0 -113.3960936566086,53.42188147424017,0 -113.3958572278789,53.42177148289962,0 -113.3944705390957,53.42177742425777,0 -113.3944479140227,53.42206209639149,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>
